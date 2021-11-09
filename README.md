@@ -1,4 +1,4 @@
-# Code for AAAI-submission 577
+# Code for CVPR-submission 7617
 ***
 The model can be seen in **model.py**.
 
